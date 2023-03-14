@@ -8,4 +8,4 @@ With Bollinger Bands Trader, you can sit back and relax while our robot does the
 
 Our robot is designed to work with Deriv dBot platform, a variety of trading platforms, making it accessible to traders all around the world. It is also equipped with risk management features to help minimize losses and maximize profits.
 
-Don't let market volatility and unpredictability get in the way of your trading success. Let Bollinger Bands Trader do the work for you and start trading with confidence today.
+Don't let market volatility and unpredictability get in the way of your trading success. Let Bollinger Bands Trader do the work for you and [Start Trading](https://track.deriv.com/_sunbqLEv-ZM-WNa_P_Nb_2Nd7ZgqdRLk/1/) with confidence today.
