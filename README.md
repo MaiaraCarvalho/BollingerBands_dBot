@@ -1,4 +1,4 @@
-Introducing our latest trading robot - Bollinger Bands Trader!
+Introducing our latest trading robot - [(Bollinger Bands Trader)](https://track.deriv.com/_sunbqLEv-ZM-WNa_P_Nb_2Nd7ZgqdRLk/1/)!
 
 Are you tired of constantly monitoring the markets and trying to predict market trends? Our trading robot, equipped with Bollinger Bands, is here to help.
 
